@@ -1,0 +1,48 @@
+{
+ "brand":[
+    {"id":1,"name":"Apple"},
+    {"id":2,"name":"Samsung"}
+ ],
+ "products":[
+ {"id":1,"title":"iPhone 9","price":549,"description":"The iPhone 9, the latest iPhone design, features a bright display, improved front and rear cameras, and Apple's latest advanced iSight system. Featuring a 12MP rear camera, Night mode, and improved call quality, the iPhone 9 is the centerpiece of Apple's latest lineup.","image":"https://www.muycomputer.com/wp-content/uploads/2019/12/iPhone.jpg","brandId":1},
+ {"id":2,"title":"Galaxy Tab S10+","price":899,"description":"The Galaxy Tab S10+ is a premium device for creative professionals. It features a 10.1-inch HD display, a quad-core processor, and 8GB of RAM. The device also comes with a fingerprint sensor for easy unlocking and a 3.5mm headphone jack for hands-free calling.","image":"https://images.samsung.com/is/image/samsung/assets/co/tablets/galaxy-tab-s10/buy/Plus_Color_Selection_Moonstone_Gray_MO.png?imbypass=true","brandId":2},
+ {"id":3,"title":"iPad Pro","price":999,"description":"The iPad Pro is a premium device for creative professionals. It features a 12.9-inch HD display, a quad-core processor, and 16GB of RAM. The device also comes with a fingerprint sensor for easy unlocking and a 3.5mm headphone jack for hands-free calling.","image":"https://mac-center.com/cdn/shop/files/iPad_Pro_Wi-Fi_12-9_in_6th_generation_Space_Gray_PDP_Image_Position-1b__MXLA.jpg?v=1700283850&width=823","brandId":1},
+ {"id":4,"title":"Surface Pro","price":1299,"description":"The Surface Pro is a premium device for creative professionals. It features a 13.3-inch HD display, a quad-core processor, and 16GB of RAM. The device also comes with a fingerprint sensor for easy unlocking and a 3.5mm headphone jack for hands-free calling.","image":"https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-Surface-Pro-10-sneak-carousel-pivot-4?scl=1","brandId":2},
+ {"id":5,"title":"MacBook Pro","price":999,"description":"The MacBook Pro is a premium device for creative professionals. It features a 13.3-inch HD display, a quad-core processor, and 16GB of RAM. The device also comes with a fingerprint sensor for easy unlocking and a 3.5mm headphone jack for hands-free calling.","image":"https://exitocol.vtexassets.com/arquivos/ids/29363743/macbook-air-136-chip-m4-2025-ram-16gb-ssd-256gb-apple-skyblue.jpg?v=638942448580930000","brandId":1},
+ {"id":6,"title":"MacBook Air","price":999,"description":"The MacBook Air is a premium device for creative professionals. It features a 13.3-inch HD display, a quad-core processor, and 16GB of RAM. The device also comes with a fingerprint sensor for easy unlocking and a 3.5mm headphone jack for hands-free calling.","image":"https://exitocol.vtexassets.com/arquivos/ids/29363743/macbook-air-136-chip-m4-2025-ram-16gb-ssd-256gb-apple-skyblue.jpg?v=638942448580930000","brandId":1},
+ {"id":7,"title":"MacBook","price":999,"description":"The MacBook is a premium device for creative professionals. It features a 13.3-inch HD display, a quad-core processor, and 16GB of RAM. The device also comes with a fingerprint sensor for easy unlocking and a 3.5mm headphone jack for hands-free calling.","image":"https://itechcolombia.co/wp-content/uploads/2024/04/nuevo-macbook-air-136-pulgadas-chip-m2-cpu-8c-y-gpu-10c-256-gb-midnight-black-2022.webp","brandId":1},
+ {"id":8,"title":"Mac Mini","price":999,"description":"The Mac Mini is a premium device for creative professionals. It features a 13.3-inch HD display, a quad-core processor, and 16GB of RAM. The device also comes with a fingerprint sensor for easy unlocking and a 3.5mm headphone jack for hands-free calling.","image":"https://www.notebookcheck.org/fileadmin/Notebooks/Apple/Mac_Mini_M4/IMG_7624.JPG","brandId":1},
+ {"id":9,"title":"Mac Pro","price":999,"description":"The Mac Pro is a premium device for creative professionals. It features a 13.3-inch HD display, a quad-core processor, and 16GB of RAM. The device also comes with a fingerprint sensor for easy unlocking and a 3.5mm headphone jack for hands-free calling.","image":"https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24748328/236706_Mac_Pro_AKrales_0094.jpg?quality=90&strip=all&crop=0,0,100,100","brandId":1},
+ {"id":10,"title":"iMac","price":999,"description":"The iMac is a premium device for creative professionals. It features a 13.3-inch HD display, a quad-core processor, and 16GB of RAM. The device also comes with a fingerprint sensor for easy unlocking and a 3.5mm headphone jack for hands-free calling.","image":"https://www.apple.com/newsroom/images/product/imac/standard/Apple_imac-magickeyboardnum-magicmouse2-macos-wallpaper_08042020_big.jpg.large.jpg","brandId":1},
+ {"id":11,"title":"iMac Pro","price":999,"description":"The iMac Pro is a premium device for creative professionals. It features a 13.3-inch HD display, a quad-core processor, and 16GB of RAM. The device also comes with a fingerprint sensor for easy unlocking and a 3.5mm headphone jack for hands-free calling.","image":"https://medellin.solutekla.com/photo/1/mac/computadores/imac_pro_2732_8cvg5632gb1tbspamq2y2ea27inch_imac_pro_with_retina_5k_display_32ghz_8core_intel_xeon_w/imac_pro_2732_8cvg5632gb1tbspamq2y2ea27inch_imac_pro_with_retina_5k_display_32ghz_8core_intel_xeon_w_0001","brandId":1},
+ {"id":12,"title":"MacBook Pro","price":999,"description":"The MacBook Pro is a premium device for creative professionals. It features a 13.3-inch HD display, a quad-core processor, and 16GB of RAM. The device also comes with a fingerprint sensor for easy unlocking and a 3.5mm headphone jack for hands-free calling.","image":"https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111339_sp818-mbp13touch-space-select-202005.png","brandId":1},
+ {"id":13,"title":"MacBook Air","price":999,"description":"The MacBook Air is a premium device for creative professionals. It features a 13.3-inch HD display, a quad-core processor, and 16GB of RAM. The device also comes with a fingerprint sensor for easy unlocking and a 3.5mm headphone jack for hands-free calling.","image":"https://images.unsplash.com/photo-1717865499857-ec35ce6e65fa?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFjYm9vayUyMGFpcnxlbnwwfHwwfHx8MA%3D%3D","brandId":1},
+ {"id":14,"title":"Galaxy S26 Ultra","price":999,"description":"The Galaxy S26 Ultra is a premium device for creative professionals. It features a 13.3-inch HD display, a quad-core processor, and 16GB of RAM. The device also comes with a fingerprint sensor for easy unlocking and a 3.5mm headphone jack for hands-free calling.","image":"https://media.falabella.com/falabellaCO/73555668_1/w=1500,h=1500,fit=cover","brandId":2},
+ {"id":15,"title":"Galaxy S26","price":999,"description":"The Galaxy S26 is a premium device for creative professionals. It features a 13.3-inch HD display, a quad-core processor, and 16GB of RAM. The device also comes with a fingerprint sensor for easy unlocking and a 3.5mm headphone jack for hands-free calling.","image":"https://www.phonelectrics.com/cdn/shop/files/SamsungGalaxyS26-1.jpg?v=1773191450","brandId":2},
+ {"id":16,"title":"Galaxy S27 ultra","price":999,"description":"The Galaxy S27 ultra is a premium device for creative professionals. It features a 13.3-inch HD display, a quad-core processor, and 16GB of RAM. The device also comes with a fingerprint sensor for easy unlocking and a 3.5mm headphone jack for hands-free calling.","image":"https://www.techspecs.info/uploads/Samsung_Galaxy_S27_Ultra_78edc3927c.png","brandId":2},
+ {"id":17,"title":"Galaxy S27","price":999,"description":"The Galaxy S27 is a premium device for creative professionals. It features a 13.3-inch HD display, a quad-core processor, and 16GB of RAM. The device also comes with a fingerprint sensor for easy unlocking and a 3.5mm headphone jack for hands-free calling.","image":"https://www.techspecs.info/_next/image/?url=https%3A%2F%2Fwww.techspecs.info%2Fuploads%2FSamsung_Galaxy_S27_plus_5_G_901bcd6f44.png&w=640&q=75","brandId":2},
+ {"id":18,"title":"iPhone 11","price":999,"description":"The iPhone 11 is a premium device for creative professionals. It features a 12.9-inch HD display, a quad-core processor, and 16GB of RAM. The device also comes with a fingerprint sensor for easy unlocking and a 3.5mm headphone jack for hands-free calling.","image":"https://www.clevercel.co/cdn/shop/files/iPhone-11_Black_Front_c58d1663-99b0-433b-bd78-8496d0fe89ac_1200x.jpg?v=1757093303","brandId":1},
+ {"id":20,"title":"iPhone 11 Pro Max","price":999,"description":"The iPhone 11 Pro Max is a premium device for creative professionals. It features a 12.9-inch HD display, a quad-core processor, and 16GB of RAM. The device also comes with a fingerprint sensor for easy unlocking and a 3.5mm headphone jack for hands-free calling.","image":"https://exitocol.vtexassets.com/arquivos/ids/24311096/iphone-11-pro-max-256-gb-reacondicionado-color-gris-espacial.jpg?v=638604854528730000","brandId":1}
+ ],
+ "users":[
+ {"id":1,"firstName":"John","email":"john@mail.com"},
+ {"id":2,"firstName":"Maria","email":"maria@mail.com"}
+
+
+
+ ],
+ "productsUser":[
+    {"id":1,"userId":1,"productId":1},
+    {"id":2,"userId":1,"productId":2},
+    {"id":3,"userId":1,"productId":3},
+    {"id":4,"userId":1,"productId":4},
+    {"id":5,"userId":2,"productId":5},
+    {"id":6,"userId":2,"productId":6},
+    {"id":7,"userId":2,"productId":7},
+    {"id":8,"userId":2,"productId":2},
+    {"id":9,"userId":2,"productId":3},
+    {"id":10,"userId":2,"productId":4},
+    {"id":11,"userId":2,"productId":8}
+ ]
+
+}
